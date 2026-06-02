@@ -1,4 +1,4 @@
-# 
+# 高级 GitKraken 插件 Mac OS版 | 极速 GitKraken 插件 PC Windows版。集成 自动格式化 和 暂存管理，跨平台性能最大化。
 
 
 
